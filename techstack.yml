@@ -2,7 +2,7 @@ repo_name: nabilbk/-D3VL-L3MON
 report_id: d656a6da228cec1c370f20db717e242f
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T11:10:36+00:00'
+timestamp: '2024-02-29T19:24:12+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: dependabot/npm_and_yarn/server/lodash-4.17.19
